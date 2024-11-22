@@ -11,7 +11,12 @@ npm run dev
 ```
 
 This starts your app in development mode, rebuilding assets on file changes.
-
+ ## When you start your app
+    - visit
+    ```sh
+     http://localhost:5173/
+    ```
+    to see the interface
 ## Deployment
 
 First, build your app for production:
